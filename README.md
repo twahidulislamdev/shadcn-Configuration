@@ -1,1 +1,1 @@
-# shadcn-Configuration
+# Shadcn-Configuration
